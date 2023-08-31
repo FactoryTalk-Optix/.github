@@ -6,7 +6,7 @@ Welcome to [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), a new vis
 
 New SaaS-enabled workflows will enable your team to collaborate any time, from anywhere, thanks to built-in change tracking and versioning that automatically keeps track of who did what and when.
 
-## Informations
+## General information
 
 This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), feel free to clone these repositories in [FactoryTalk® Optix™](http://www.factorytalkoptix.com/) IDE and test them!
 
