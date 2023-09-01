@@ -10,11 +10,17 @@ New SaaS-enabled workflows will enable your team to collaborate any time, from a
 
 This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), feel free to clone these repositories in [FactoryTalk® Optix™](http://www.factorytalkoptix.com/) IDE and test them!
 
-## FactoryTalk® Optix™ IDE version
+### Disclaimer
+
+Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to or edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
+
+## How to use these repositories
+
+### FactoryTalk® Optix™ IDE version
 
 Sample projects are typically developed on the latest available stable release unless specific version is set in the README file
 
-## How to get FactoryTalk® Optix™
+### How to get FactoryTalk® Optix™
 
 1. Create an account at [FactoryTalk® Hub](https://home.cloud.rockwellautomation.com/) website
 2. Create an organization
@@ -22,7 +28,7 @@ Sample projects are typically developed on the latest available stable release u
 
 You can also get in touch with your local Rockwell Automation distributor
 
-## How to clone the repositories
+### How to clone the repositories
 
 1. Click on the green `CODE` button in the top right corner
 2. Select `HTTPS` and copy the provided URL
@@ -30,10 +36,6 @@ You can also get in touch with your local Rockwell Automation distributor
 4. Click on `Open` and select the `Remote` tab
 5. Paste the HTTPS URL from step 2
 6. Click `Open` button in bottom right corner to start cloning process
-
-## Disclaimer
-
-Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to or edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
 
 ## Additional resources
 
