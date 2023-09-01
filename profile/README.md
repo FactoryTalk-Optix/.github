@@ -14,11 +14,19 @@ This organization contains a set of repositories that can be used as PoC, traini
 
 Sample projects are typically developed on the latest available stable release unless specific version is set in the README file
 
+## How to get FactoryTalk® Optix™
+
+1. Create an account at [FactoryTalk® Hub](https://home.cloud.rockwellautomation.com/) website
+2. Create an organization
+3. Click on the FactoryTalk® Optix™ tile and either use the WebIDE or download the desktop IDE
+
+You can also get in touch with your local Rockwell Automation distributor
+
 ## How to clone the repositories
 
 1. Click on the green `CODE` button in the top right corner
 2. Select `HTTPS` and copy the provided URL
-3. Open FT Optix IDE
+3. Open FactoryTalk® Optix™ IDE
 4. Click on `Open` and select the `Remote` tab
 5. Paste the HTTPS URL from step 2
 6. Click `Open` button in bottom right corner to start cloning process
