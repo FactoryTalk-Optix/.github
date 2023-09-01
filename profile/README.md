@@ -26,3 +26,11 @@ Sample projects are typically developed on the latest available stable release u
 ## Disclaimer
 
 Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to or edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
+
+## Additional resources
+
+- [First steps with FactoryTalk® Optix™ on YouTube](https://www.youtube.com/playlist?list=PL3K_BigUXJ1M1-JpRiwIIhzJUbhwtK3yy)
+- [FactoryTalk® Optix™ website](http://www.factorytalkoptix.com/)
+- [Rockwell Automation YouTube](https://www.youtube.com/@RockwellautomationInc)
+- [Rockwell Automation Website](https://www.rockwellautomation.com/)
+- [ASEM S.r.l. a Rockwell Automation company](https://www.asemautomation.com/)
