@@ -23,7 +23,7 @@ Sample projects are typically developed on the latest available stable release u
 ### How to get FactoryTalk® Optix™
 
 1. Create an account at [FactoryTalk® Hub](https://home.cloud.rockwellautomation.com/) website
-2. Create an organization
+2. Create (or join) an organization
 3. Click on the FactoryTalk® Optix™ tile and either use the WebIDE or download the desktop IDE
 
 You can also get in touch with your local Rockwell Automation distributor
