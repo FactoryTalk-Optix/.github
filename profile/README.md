@@ -10,6 +10,10 @@ New SaaS-enabled workflows will enable your team to collaborate any time, from a
 
 This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), feel free to clone these repositories in [FactoryTalk® Optix™](http://www.factorytalkoptix.com/) IDE and test them!
 
+# FactoryTalk® Optix™ IDE version
+
+Sample projects are typically developed on the latest available stable release unless specific version is set in the README file
+
 ## How to clone the repositories
 
 1. Click on the green `CODE` button in the top right corner
