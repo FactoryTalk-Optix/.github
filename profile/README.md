@@ -14,6 +14,8 @@ This organization contains a set of repositories that can be used as PoC, traini
 
 Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
 
+The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example for the purpose, observing the highest safety standards.
+
 ### Definitions:
 
 `Demo` is an application that shows the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
@@ -21,10 +23,6 @@ Rockwell Automation maintains these repositories as a convenience to you and oth
 `Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how they work. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
 
 Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the demo or sample. 
-
-## WARNING:
-
-The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example for the purpose, observing the highest safety standards.
 
 ## How to use these repositories
 
