@@ -40,12 +40,23 @@ You can also get in touch with your local Rockwell Automation distributor
 
 ### How to clone the repositories
 
+#### Cloning in FactoryTalk® Optix™
+
+1. Open any repository you like
 1. Click on the green `CODE` button in the top right corner
-2. Select `HTTPS` and copy the provided URL
-3. Open FactoryTalk® Optix™ IDE
-4. Click on `Open` and select the `Remote` tab
-5. Paste the HTTPS URL from step 2
-6. Click `Open` button in bottom right corner to start cloning process
+1. Select `HTTPS` and copy the provided URL
+1. Open FactoryTalk® Optix™ IDE
+1. Click on `Open` and select the `Remote` tab
+1. Paste the HTTPS URL from step 2
+1. Click `Open` button in the bottom right corner to start the cloning process
+
+#### Downloading ZIP file
+
+1. Open any repository you like
+1. Click on the green `CODE` button in the top right corner
+1. Click on the `Download ZIP` button
+
+Please note: using this technique you won't be notified in the IDE when the GitHub repository gets updated, you will need to manually open your browser and check the repo from time to time
 
 ## Additional resources
 
