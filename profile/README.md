@@ -24,7 +24,7 @@ The examples provided are to be used as a reference for building your own applic
 - `Library` is a repository that is meant to be cloned to the Templates Library of FactoryTalk® Optix™, containing cool add-ons
 - `Game` is an application that is used to show performances and integration capabilities and integrations of FactoryTalk® Optix™
 
-Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the demo or sample. 
+Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the project. 
 
 ## How to use these repositories
 
