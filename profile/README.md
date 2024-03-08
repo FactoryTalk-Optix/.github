@@ -8,19 +8,25 @@ New SaaS-enabled workflows will enable your team to collaborate any time, from a
 
 ## General information
 
-This organization contains a set of repositories that can be used as PoC, training or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), feel free to clone these repositories in [FactoryTalk® Optix™](http://www.factorytalkoptix.com/) IDE and test them!
+This organization contains a set of repositories that can be used as PoC, training, or demonstrations. These repositories have been created by our most talented technicians to show the endless capabilities of [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), feel free to clone these repositories in [FactoryTalk® Optix™](http://www.factorytalkoptix.com/) IDE and test them!
 
 ### Disclaimer
 
 Rockwell Automation maintains these repositories as a convenience to you and other users. Although Rockwell Automation reserves the right at any time and for any reason to refuse access to edit or remove content from this Repository, you acknowledge and agree to accept sole responsibility and liability for any Repository content posted, transmitted, downloaded, or used by you. Rockwell Automation has no obligation to monitor or update Repository content
 
-The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example for the purpose, observing the highest safety standards.
+The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example for the purpose and observing the highest safety standards.
 
 ### Definitions:
 
 `Demo` is an application that shows the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
 
-`Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how they work. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
+`Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how it works. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
+
+`Training` is an application that shows a specific feature as part of the Training program with our customers/distributors, it is generically a very small application that shows few concepts and it's easy to replicate
+
+`Library` is a repository that is meant to be cloned to the Templates Library of FactoryTalk® Optix™, containing cool add-ons
+
+`Game` is an application that is used to show performances and integration capabilities and integrations of FactoryTalk® Optix™
 
 Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the demo or sample. 
 
@@ -65,3 +71,7 @@ Please note: using this technique you won't be notified in the IDE when the GitH
 - [Rockwell Automation YouTube](https://www.youtube.com/@RockwellautomationInc)
 - [Rockwell Automation Website](https://www.rockwellautomation.com/)
 - [ASEM S.r.l. a Rockwell Automation company](https://www.asemautomation.com/)
+
+## Report issues
+
+If you find any issue with one of the repositories, please refer to the Engage forum hosted by Rockwell Automation at [this link](https://engage.rockwellautomation.com/search?s=%23FTOptix&executesearch=true)
