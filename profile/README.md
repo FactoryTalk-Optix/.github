@@ -62,13 +62,17 @@ Please note: using this technique you won't be notified in the IDE when the GitH
 
 ## Additional resources
 
-- [First steps with FactoryTalk® Optix™ on YouTube](https://www.youtube.com/playlist?list=PL3K_BigUXJ1M1-JpRiwIIhzJUbhwtK3yy)
-- [FactoryTalk® Optix™ website](http://www.factorytalkoptix.com/)
+- First time with FactoryTalk® Optix™? Check out our YouTube playlist: [first steps with FactoryTalk® Optix™ on YouTube](https://www.youtube.com/playlist?list=PL3K_BigUXJ1M1-JpRiwIIhzJUbhwtK3yy)
+- Do you need some information about FactoryTalk® Optix™? Check the dedicated [FactoryTalk® Optix™ website](http://www.factorytalkoptix.com/)
+- Are you looking for installation guides, help, or other documentation? Get to [FactoryTalk® Optix™ landing page](https://www.rockwellautomation.com/en-us/support/documentation/technical/capabilities/optix-portfolio.html)
+- Are you stuck at some point in your project, or you have no clue on how to fix an error? Maybe the [Rockwell Automation Engage forum](https://engage.rockwellautomation.com/search?s=%23FTOptix&executesearch=true) is the right place
+
+### Related links
+
 - [Rockwell Automation YouTube](https://www.youtube.com/@RockwellautomationInc)
 - [Rockwell Automation Website](https://www.rockwellautomation.com/)
 - [ASEM S.r.l. a Rockwell Automation company](https://www.asemautomation.com/)
-- [Engage forum](https://engage.rockwellautomation.com/)
 
 ## Report issues
 
-If you find any issue with one of the repositories, please refer to the Engage forum hosted by Rockwell Automation at [this link](https://engage.rockwellautomation.com/search?s=%23FTOptix&executesearch=true)
+If you find any issue with one of the repositories, please refer to the Engage forum hosted by Rockwell Automation at [this link](https://engage.rockwellautomation.com/)
