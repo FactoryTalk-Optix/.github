@@ -18,15 +18,11 @@ The examples provided are to be used as a reference for building your own applic
 
 ### Definitions:
 
-`Demo` is an application that shows the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
-
-`Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how it works. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
-
-`Training` is an application that shows a specific feature as part of the Training program with our customers/distributors, it is generically a very small application that shows few concepts and it's easy to replicate
-
-`Library` is a repository that is meant to be cloned to the Templates Library of FactoryTalk® Optix™, containing cool add-ons
-
-`Game` is an application that is used to show performances and integration capabilities and integrations of FactoryTalk® Optix™
+- `Demo` is an application that shows the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
+- `Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how it works. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
+- `Training` is an application that shows a specific feature as part of the Training program with our customers/distributors, it is generically a very small application that shows few concepts and it's easy to replicate
+- `Library` is a repository that is meant to be cloned to the Templates Library of FactoryTalk® Optix™, containing cool add-ons
+- `Game` is an application that is used to show performances and integration capabilities and integrations of FactoryTalk® Optix™
 
 Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the demo or sample. 
 
