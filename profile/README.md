@@ -1,8 +1,8 @@
 # Welcome to FactoryTalk® Optix™ organization!
 
-Welcome to [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), a new visualization platform that accelerates value delivery with modern technologies, innovative designs and scalable deployment options.
+Welcome to [FactoryTalk® Optix™](http://www.factorytalkoptix.com/), a new visualization platform that accelerates value delivery with modern technologies, innovative designs, and scalable deployment options.
 
-[FactoryTalk® Optix™](http://www.factorytalkoptix.com/) can help improve your process, efficiency and deliverables – in one easy-to-access tool.  Take advantage of new levels of collaboration, scalability and interoperability to achieve your HMI vision.
+[FactoryTalk® Optix™](http://www.factorytalkoptix.com/) can help improve your process, efficiency, and deliverables – in one easy-to-access tool.  Take advantage of new levels of collaboration, scalability, and interoperability to achieve your HMI vision.
 
 New SaaS-enabled workflows will enable your team to collaborate any time, from anywhere, thanks to built-in change tracking and versioning that automatically keeps track of who did what and when.
 
