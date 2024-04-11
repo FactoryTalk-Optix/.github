@@ -42,7 +42,7 @@ You can also get in touch with your local Rockwell Automation distributor
 
 ### How to clone the repositories
 
-#### Cloning in FactoryTalk® Optix™
+#### Cloning in FactoryTalk® Optix™ (preferred)
 
 1. Open any repository you like
 1. Click on the green `CODE` button in the top right corner
