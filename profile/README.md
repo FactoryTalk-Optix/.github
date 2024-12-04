@@ -18,13 +18,32 @@ The examples provided are to be used as a reference for building your own applic
 
 ### Definitions:
 
-- `Demo` is an application that shows the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
-- `Sample` is an application that shows a specific feature and can be reverse-engineered easily to understand how it works. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
-- `Training` is an application that shows a specific feature as part of the Training program with our customers/distributors, it is generically a very small application that shows few concepts and it's easy to replicate
-- `Library` is a repository that is meant to be cloned to the Templates Library of FactoryTalk® Optix™, containing cool add-ons
-- `Game` is an application that is used to show performances and integration capabilities of FactoryTalk® Optix™
+Applications are divided into subcategories, depending on their main goal, please read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the project. 
 
-Read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the project. 
+<details>
+  <summary>Demo</summary>  
+Demo applications show the high-level functionality of FactoryTalk Optix. Demo applications may contain a significant amount of internal code used to simulate the application. The internal code does not always represent the best practices of FactoryTalk Optix application design. It is best to not reverse engineer/re-use demo applications, as they are not suitable for direct use in a production environment.
+</details>
+
+<details>
+  <summary>Sample</summary>
+Samples are applications that show a specific feature and can be reverse-engineered easily to understand how it works. To be used as a guide only for production application development. Not suitable for direct use in a production environment.  
+  </details>
+
+<details>
+  <summary>Training</summary>
+  Training applications show a specific feature as part of the Training program with our customers/distributors, it is generically a very small application that shows few concepts and it's easy to replicate. Those applications cover the most requested features or the basics of FactoryTalk® Optix™
+</details>
+
+<details>
+  <summary>Library</summary>
+  A Library is a special repository that is meant to be cloned to the Templates Library of FactoryTalk® Optix™, containing cool add-ons developed by our technicians
+</details>
+
+<details>
+  <summary>Game</summary>
+  A set of projects used to showcase the features, performances and integration capabilities of FactoryTalk® Optix™. These are just proof of concepts and should never be used outside the testing laboratory.
+</details>
 
 ## How to use these repositories
 
@@ -42,7 +61,7 @@ You can also get in touch with your local Rockwell Automation distributor
 
 ### How to clone the repositories
 
-#### Cloning in FactoryTalk® Optix™ (preferred)
+<details><summary>Cloning in FactoryTalk® Optix™ (preferred)</summary>
 
 1. Open any repository you like
 1. Click on the green `CODE` button in the top right corner
@@ -51,14 +70,16 @@ You can also get in touch with your local Rockwell Automation distributor
 1. Click on `Open` and select the `Remote` tab
 1. Paste the HTTPS URL from step 2
 1. Click `Open` button in the bottom right corner to start the cloning process
+</details>
 
-#### Downloading ZIP file
+<details><summary>Downloading ZIP file</summary>
 
 1. Open any repository you like
 1. Click on the green `CODE` button in the top right corner
 1. Click on the `Download ZIP` button
 
 Please note: using this technique you won't be notified in the IDE when the GitHub repository gets updated, you will need to manually open your browser and check the repo from time to time
+</details>
 
 ## Additional resources
 
