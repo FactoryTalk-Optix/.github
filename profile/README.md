@@ -16,6 +16,8 @@ Rockwell Automation maintains these repositories as a convenience to you and oth
 
 The examples provided are to be used as a reference for building your own application and should not be used in production as-is. It is recommended to adapt the example for the purpose and observing the highest safety standards.
 
+Some portions of the code in the examples of this GitHub organization might be created, improved, or reworked using AI Tools like GitHub Copilot.
+
 ### Definitions:
 
 Applications are divided into subcategories, depending on their main goal, please read through the entire ReadMe file to determine what additional FactoryTalk Optix applications or settings may be needed to ensure the proper emulation of the project. 
