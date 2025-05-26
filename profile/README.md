@@ -89,7 +89,7 @@ Please note: using this technique you won't be notified in the IDE when the GitH
 - Do you need some information about FactoryTalk® Optix™? Check the dedicated [FactoryTalk® Optix™ website](http://www.factorytalkoptix.com/)
 - Are you looking for installation guides, help, or other documentation? Get to [FactoryTalk® Optix™ landing page](https://www.rockwellautomation.com/en-us/support/documentation/technical/capabilities/optix-portfolio.html)
 - Are you stuck at some point in your project, or you have no clue on how to fix an error? Maybe the [Rockwell Automation Engage forum](https://engage.rockwellautomation.com/search?s=%23FTOptix&executesearch=true) is the right place
-- FactoryTalk Optix technical training: [view in Seismic](https://eng2e.seismic.com/ls/5d78bc76-77f9-460a-a446-4685520db077/s33UBOoaCuolUIug)
+- FactoryTalk Optix technical training: [view in Seismic](https://eng2e.seismic.com/ls/5d78bc76-77f9-460a-a446-4685520db077/HRZbG6dVdtwIQipW)
 
 ### Related links
 
