@@ -96,7 +96,7 @@ Please note: using this technique you won't be notified in the IDE when the GitH
 
 - [Rockwell Automation YouTube](https://www.youtube.com/@RockwellautomationInc)
 - [Rockwell Automation Website](https://www.rockwellautomation.com/)
-- [ASEM S.r.l. a Rockwell Automation company](https://www.asemautomation.com/)
+- [ASEM S.r.l. a Rockwell Automation company](https://www.asem.it/)
 
 ## Report issues
 
